@@ -5,7 +5,7 @@ window.onload = function(){
 	document.getElementById('clickMe').onclick = runTheExample;
 }
 */
-function runTheExample(){
+function runTheExample() {
 	alert('running the example');
 }
 
